@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm Lb8lpniooionelCoxshxoagmer
 
-<!--
-**Lb8lpniooionelCoxshxoagmer/Lb8lpniooionelCoxshxoagmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚣 🏏 🎽 🌈 Innovating in the field of full stack development 🚣 🏏 🎽 🌈
 
-Here are some ideas to get you started:
+## About Me
+🏑 🎸 Improving my skills in libraries 🏑 🎸
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+💡 🚣 🏹 🎰 A nerd in project management 💡 🚣 🏹 🎰
+
+### Fun Facts
+🏸 🏒 🏄 🏑 A beginner in desktop development 🏸 🏒 🏄 🏑
+
+---
+🎣 🏒 🎰 🥊 🏏 Thanks for visiting my profile! 💻 🎯 🏄 💡 🎰
